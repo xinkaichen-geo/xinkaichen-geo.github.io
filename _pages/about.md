@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a PhD student at School of Earth and Space Science, Peking University, under the supervision of Prof. Yanjing Chen. 
 
-My research interests span broadly. Combining *field mapping*, sampling with state of the art *analytical tools*, and simple *analytical and numerical modeling*, I'm aiming to decipher: (1) the oxidation state of early earth, especially the time node of environment change from anoxic to oxic (about 2.5~2.2 billion years ago),  (2) the controlling factors upon the collisional Mo deposits, from the source, the magma accenting process, and the participation of ore minerals, and (3) traditional (mainly carbon) and metal (mainly molybdenum, lithium,  osmium) isotopic variations during different geological events. 
+My research interests span broadly. Combining *field mapping*, sampling with state of the art *analytical tools*, and simple *analytical and numerical modeling*, I'm aiming to decipher: (1) the oxidation state of early earth, especially the time node of environment change from anoxic to oxic (about 2.5~2.2 billion years ago),  (2) the controlling factors upon the collisional Mo deposits, from the source, the magma ascending process, and the precipitation of ore minerals, and (3) traditional (mainly carbon) and metal (mainly molybdenum, lithium,  osmium) isotopic variations during different geological events. 
 
 More details could be found in my [CV](https://xinkaichen-geo.github.io/cv/). 
 
