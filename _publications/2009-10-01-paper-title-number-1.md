@@ -1,11 +1,11 @@
 ---
-title: 'Chronology and geochemical composition of cassiterite and zircon from the Maodeng Sn-Cu deposit, Northeastern China: Implications for magmatic-hydrothermal evolution and ore-forming process'
-collection: 'publications'
-category: 'manuscripts'
-permalink: 'https://www.sciencedirect.com/science/article/pii/S016913682200467X'
-date: '2022-10'
+title: "Chronology and geochemical composition of cassiterite and zircon from the Maodeng Sn-Cu deposit, Northeastern China: Implications for magmatic-hydrothermal evolution and ore-forming process"
+collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-1'
+date: 2022-10-14
 venue: 'Ore Geology Reviews'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://xinkaichen-geo.github.io/files/slides1.pdf'
 paperurl: 'http://xinkaichen-geo.github.io/files/paper1.pdf'
 ---
 
