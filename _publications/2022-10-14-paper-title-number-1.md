@@ -5,7 +5,6 @@ category: 'manuscripts'
 permalink: 'http://xinkaichen-geo.github.io/publication/2022-10-14-paper-title-number-1'
 date: '2022-10-14'
 venue: 'Ore Geology Reviews'
-slidesurl: 'http://xinkaichen-geo.github.io/files/slides1.pdf'
 paperurl: 'http://xinkaichen-geo.github.io/files/paper1.pdf'
 ---
 
