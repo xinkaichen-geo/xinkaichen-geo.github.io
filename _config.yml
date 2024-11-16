@@ -14,7 +14,7 @@ name                     : &name "Xinkai Chen"
 description              : &description "personal description"
 url                      : "https://xinkaichen-geo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "axinkaichen-geo/xinkaichen-geo.github.io"
+repository               : "xinkaichen-geo/xinkaichen-geo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
