@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "cn-China"
-title                    : "Xinkai Chen"
+title                    : "  Xinkai Chen"
 title_separator          : "-"
 name                     : &name "Xinkai Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://xinkaichen-geo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "axinkaichen-geo/xinkaichen-geo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xinkai Chen (陈新凯)"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "PhD student at Peking University"
   location         : "Beijing"
   employer         : "Peking University"
