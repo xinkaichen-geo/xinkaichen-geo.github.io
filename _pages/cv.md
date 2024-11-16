@@ -21,14 +21,15 @@ Employment
 * Fall 2024: Teaching Assistant for ***Theory of Metallogeny*** taught by Prof **Yanjing Chen**
   * Peking University
   * Duties includes: Support, Facilitate, Guide
-* Spring 2022: Teaching Assistant for ***Experimental Petrology and Geochemistry***  taught by Prof. **Xiaolin Xiong **& Dr. **Xingcheng Liu**
+* Spring 2022: Teaching Assistant for ***Experimental Petrology and Geochemistry***  taught by Prof. **Xiaolin Xiong**& Dr. **Xingcheng Liu**
   * University of Chinese Academy of Science
   * Duties includes: Support, Facilitate, Guide
 * Fall 2019:  Teaching Assistant for ***Basin tectonic analysis*** taught by Prof. **Liguang Mao**
   * China University of Mining and Technology, Beijing
   * Duties includes: Support, Facilitate, Guide
-Honors and Awards
-======
+
+# Honors and Awards
+
 * Beijing Outstanding Graduate
 * Science and Technology Innovation Scholarship in Chinese Academy of Geological Sciences
 * National Scholarship
