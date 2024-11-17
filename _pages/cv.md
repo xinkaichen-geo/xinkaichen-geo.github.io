@@ -11,10 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geochemistry and Economic Geology, Peking University, ongoing, advised by Prof. Yanjing Chen and Prof. Xi Liu
-* Visiting Student in Geochemistry, Australian National University, 2023, advised by Prof. John Mavrogenes and Dr. Antony Burnham 
-* M.S. in Geochemistry, Chinese Academy of Geological Sciences, 2024, advised by Prof. Zhenhua Zhou
-* B.S. in Geology, China University of Mining and Technology, Beijing, 2021, advised by Dr. Xiaofang He 
+* Ph.D in Geochemistry and Economic Geology, Peking University, ongoing, advised by Prof. [Yanjing Chen](https://faculty.pku.edu.cn/chenyanjing/zh_CN/index.htm) and Prof. [Xi Liu](https://sess2.pku.edu.cn/organization/gwgy/dw/ryzc/bjdxbrjhtpyjy/lx/index.htm)
+
+* Visiting Student in Geochemistry, Australian National University, 2023, advised by Prof. [John Mavrogenes](https://earthsciences.anu.edu.au/people/professor-john-mavrogenes) and Dr. [Antony Burnham](https://earthsciences.anu.edu.au/people/dr-antony-burnham) 
+
+* M.S. in Geochemistry, Chinese Academy of Geological Sciences, 2024, advised by Prof. [Zhenhua Zhou](http://www.imr.cgs.gov.cn/rcdw/gyjs/zdsyscxpt/sdzyyjs/202207/t20220728_708863.html)
+
+* B.S. in Geology, China University of Mining and Technology Beijing, 2021, advised by Dr. [Xiaofang He](https://dcxy.cumtb.edu.cn/info/1012/2672.htm)
+
+  
 
 Employment
 ======
