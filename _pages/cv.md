@@ -43,7 +43,7 @@ Employment
 * Exemplary student in Chinese Academy of Geological Sciences
 * Excellent award, National Geoscience Postgraduate Forum
 * A-class Academic Scholarship at CAGS
-* The Third Prize Scholarship
+* The Third Prize Scholarship at China University of Mining and Technology Beijing
 * Outstanding Volunteer in Tongling City Library 
 
 Research Projects
