@@ -1,7 +1,6 @@
 ---
 title: "2021 spring, football match in CUMTB"
-excerpt: "The final match I represent for CUMTB. <br>
-<img src='/images/2021矿大.jpg>"
+excerpt: "The final match I represent for CUMTB. <br><img src='/images/2021矿大.jpg'>"
 collection: photography
 ---
 
