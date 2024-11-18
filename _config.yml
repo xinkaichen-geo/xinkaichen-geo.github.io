@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "cn-China"
-title                    : "  Xinkai Chen"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Xinkai Chen"
-description              : &description "personal description"
+name                     : "Xinkai Chen"
+description              : "PhD student in geochemistry"
 url                      : "https://xinkaichen-geo.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinkaichen-geo/xinkaichen-geo.github.io"
