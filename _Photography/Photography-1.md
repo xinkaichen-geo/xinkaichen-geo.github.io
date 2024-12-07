@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <br><img src='/images/2021矿大.png'>"
+excerpt: "Short description of portfolio item number 1 <br><img src='/images/2021 cumtb.png'>"
 collection: Photography
 ---
 
