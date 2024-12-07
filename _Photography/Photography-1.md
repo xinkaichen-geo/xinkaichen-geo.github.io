@@ -1,7 +1,6 @@
 ---
-title: "football match in CUMTB"
-excerpt: "The final match I represent for CUMTB.
- <br><img src='/images/2021矿大.jpg'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1 <br><img src='/images/2021矿大.jpg'>"
 collection: Photography
 ---
 
