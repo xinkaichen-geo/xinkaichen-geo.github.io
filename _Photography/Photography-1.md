@@ -1,7 +1,10 @@
 ---
-title: "Campus Memory at CUMTB"
-excerpt: "A campus memory from CUMTB. <br><img src='/images/2021%20cumtb.png'>"
+title: "2021 Spring Football Match at CUMTB"
+excerpt: "A spring football match at CUMTB, 2021. <br><img src='/images/2021%20cumtb.png'>"
 collection: photography
 ---
 
-This photo records a moment from my time at China University of Mining and Technology, Beijing. Photography is a useful way for me to preserve places, field memories, and small observations from daily life.
+Location: China University of Mining and Technology, Beijing  
+Date: Spring 2021  
+
+This was one of my last football matches representing CUMTB. The photo keeps a record of campus life, friendship, and the rhythm of undergraduate years before moving into a new research stage.
