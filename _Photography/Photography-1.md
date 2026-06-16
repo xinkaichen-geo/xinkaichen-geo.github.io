@@ -1,6 +1,6 @@
 ---
 title: "2021 Spring Football Match at CUMTB"
-excerpt: "A spring football match at CUMTB, 2021. <br><img src='/images/2021%20cumtb.png'>"
+excerpt: "A spring football match at CUMTB, 2021. <br><img src='/images/2021-cumtb-football.png'>"
 collection: photography
 ---
 
