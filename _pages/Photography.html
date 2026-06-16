@@ -3,6 +3,8 @@ layout: archive
 title: "Photography"
 permalink: /photography/
 author_profile: true
+redirect_from:
+  - /Photography/
 ---
 
 {% include base_path %}
@@ -10,6 +12,6 @@ author_profile: true
 Selected photographs from fieldwork, campus life, travel, and daily observations. Each entry can include a short caption, location, date, and a few sentences about why the image matters.
 
 {% for post in site.photography %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 
