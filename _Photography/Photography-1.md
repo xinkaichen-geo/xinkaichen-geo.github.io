@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1 <br><img src='/images/2021 cumtb.png'>"
-collection: Photography
+title: "Campus Memory at CUMTB"
+excerpt: "A campus memory from CUMTB. <br><img src='/images/2021%20cumtb.png'>"
+collection: photography
 ---
 
-This is an item in your Photography. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This photo records a moment from my time at China University of Mining and Technology, Beijing. Photography is a useful way for me to preserve places, field memories, and small observations from daily life.
