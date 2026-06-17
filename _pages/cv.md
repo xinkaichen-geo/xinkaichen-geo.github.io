@@ -21,18 +21,6 @@ Education
 
   
 
-Employment
-======
-* Fall 2024: Teaching Assistant for ***Theory of Metallogeny*** taught by Prof **Yanjing Chen**
-  * Peking University
-  * Duties includes: Support, Facilitate, Guide
-* Spring 2022: Teaching Assistant for ***Experimental Petrology and Geochemistry***  taught by Prof. **Xiaolin Xiong**& Dr. **Xingcheng Liu**
-  * University of Chinese Academy of Science
-  * Duties includes: Support, Facilitate, Guide
-* Fall 2019:  Teaching Assistant for ***Basin tectonic analysis*** taught by Prof. **Liguang Mao**
-  * China University of Mining and Technology, Beijing
-  * Duties includes: Support, Facilitate, Guide
-
 # Honors and Awards
 
 * Beijing Outstanding Graduate
@@ -53,18 +41,7 @@ During my master's program, I primarily focused on magmatic-hydrothermal related
 
 The topics are as follows:
 
-* Signal in carbon isotope to record the Lomagundi–Jatuli Event (LJE) in North China Craton. (in progress)
-* How to make collisional molybdenum deposits? (in progress)
+* Banded iron formations in North China Craton, to trace the redox state of paleo-ocean, and to decipher the precipitation mechanism of iron ores (ongoing)
+* Signal in carbon isotope to record the Lomagundi–Jatuli Event (LJE) in North China Craton (completed)
+* How to make collisional molybdenum deposits? (completed)
 * Rare metal mineralization in southern Great Xing'an Range, NE China (completed)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
