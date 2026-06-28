@@ -9,6 +9,8 @@ header:
 
 ![202605, Conference in Xian](/images/202605-xian2.jpg)
 
+![202605, Conference in Xian](/images/202605-xian3.jpg)
+
 Location: Xian  
 Date: 05 2026  
 
