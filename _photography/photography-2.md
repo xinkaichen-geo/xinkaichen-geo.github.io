@@ -7,7 +7,7 @@ header:
 
 ---
 
-![2021 Spring Football Match at CUMTB](/images/2021-cumtb-football.png)
+![202605, Conference in Xian](/images/202605-xian2.jpg)
 
 Location: Xian  
 Date: 05 2026  
