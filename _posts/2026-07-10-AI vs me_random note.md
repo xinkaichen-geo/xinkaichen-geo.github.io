@@ -1,15 +1,3 @@
-```
----
-title: "Informal Essay"
-date: 2026-07-10
-permalink: /posts/2026/07/my-new-post/
-tags:
-  - AI
-  - scienctific writing
----
-
-```
-
 This is just a random note unrelated to academic research,
 
 Yet as I kept writing, it turned into a self-reflection.
