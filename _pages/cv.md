@@ -17,7 +17,7 @@ Education
 
 * M.S. in Geochemistry, Chinese Academy of Geological Sciences, 2024, advised by Prof. [Zhenhua Zhou](http://www.imr.cgs.gov.cn/rcdw/gyjs/zdsyscxpt/sdzyyjs/202207/t20220728_708863.html)
 
-* B.S. in Geology, China University of Mining and Technology Beijing, 2021, advised by Dr. [Xiaofang He](https://dcxy.cumtb.edu.cn/info/1012/2672.htm)
+* B.S. in Geology, China University of Mining and Technology Beijing, 2021, advised by Dr. [Xiaofang He](https://dcxy.cumtb.edu.cn/info/1010/7033.htm)
 
   
 
